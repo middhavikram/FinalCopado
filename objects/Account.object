@@ -302,12 +302,10 @@
     </fields>
     <fields>
         <fullName>SLAExpirationDate__c</fullName>
-        <encrypted>false</encrypted>
         <externalId>false</externalId>
         <label>SLA Expiration Date</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
-        <trackHistory>false</trackHistory>
         <type>Date</type>
     </fields>
     <fields>
