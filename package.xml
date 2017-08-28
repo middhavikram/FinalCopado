@@ -4,9 +4,5 @@
         <members>ControllerA</members>
         <name>ApexClass</name>
     </types>
-    <types>
-        <members>Account.SLAExpirationDate__c</members>
-        <name>CustomField</name>
-    </types>
     <version>39.0</version>
 </Package>
