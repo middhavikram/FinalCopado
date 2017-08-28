@@ -118,6 +118,14 @@
         <type>Date</type>
     </fields>
     <fields>
+        <fullName>Copado_Test__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Copado Test</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Created_From_Lead__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
